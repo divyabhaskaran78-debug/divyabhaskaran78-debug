@@ -1,7 +1,17 @@
-# 💫 About Me:
-I'm currently a beginner and here to build my data science projects from scratch as I keep getting ahead in my learning journey. <br>I aim to become a data scientist and would like to have a few mini projects under my wing here.<br>Wish me luck on my journey!
+# 👋 About Me
 
+# Data Science learner transitioning from Oracle EBS background
+  Focused on building ML projects and becoming an AI/ML Engineer
 
+# 🚀 What I’m Doing Right Now
+  Completing IBM Data Science Professional Certificate
+  Building hands-on ML projects
+  Learning Python, Pandas, Scikit-learn
+# 🧠 Skills
+ Python
+ SQL
+ Data Analysis
+ Machine Learning (in progress)
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyabhaskaran78@gmail.com) 
 
