@@ -12,7 +12,10 @@ I'm currently a beginner and here to build my data science projects from scratch
 ![](https://streak-stats.demolab.com/?user=divyabhaskaran78-debug&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=divyabhaskaran78-debug&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
-[![](https://komarev.com/ghpvc/?username=divyabhaskaran78-debug&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=divyabhaskaran78-debug&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
