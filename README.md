@@ -1,17 +1,19 @@
 # 👋 About Me
 
-# Data Science learner transitioning from Oracle EBS background
-  Focused on building ML projects and becoming an AI/ML Engineer
+Data Science learner transitioning from Oracle EBS background
+Focused on building ML projects and becoming an AI/ML Engineer
 
-# 🚀 What I’m Doing Right Now
+🚀 What I’m Doing Right Now
   Completing IBM Data Science Professional Certificate
   Building hands-on ML projects
   Learning Python, Pandas, Scikit-learn
-# 🧠 Skills
+  
+🧠 Skills
  Python
  SQL
  Data Analysis
  Machine Learning (in progress)
+ 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyabhaskaran78@gmail.com) 
 
